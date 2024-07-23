@@ -24,12 +24,12 @@ function Administracion() {
                 </SoftTypography>
               </SoftBox>
               <SoftTypography variant="h5" fontWeight="bold" gutterBottom>
-                Dashboard para Personal
+                Dashboard Medico
               </SoftTypography>
               <SoftBox mb={6}>
                 <SoftTypography variant="body2" color="text">
                 Herramienta de gestión de datos médicos pensada especialmente para los trabajadores de la Fundación con Cristo, 
-                facilitando la administración de información de pacientes de manera sencilla y efectiva.
+                facilitando la administración de información de pacientes de manera sencilla, efectiva y amigable con el usuario.
                 </SoftTypography>
               </SoftBox>
               <SoftTypography
