@@ -40,7 +40,7 @@ function Bienvenido() {
           </SoftBox>
           <SoftBox mb={2}>
             <SoftTypography variant="body2" color="white">
-            Somos una Fundación que nos caracterizamos por trabajar con Cristo, brindando atención integral a las personas que acuden en demanda de servicios de salud, rehabilitación, capacitación; especialmente a niñas y niños con capacidades especiales.
+            Esta es una Fundación dedicada y que se caracteriza por trabajar con Cristo, brindando atención integral a las personas que acuden en demanda de servicios de salud, rehabilitación, capacitación; especialmente a niñas y niños con capacidades especiales.
             </SoftTypography>
           </SoftBox>
           <SoftTypography

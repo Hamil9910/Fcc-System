@@ -30,31 +30,31 @@ function Dashboard() {
             <Grid item xs={12} sm={6} xl={3}>
               <MiniStatisticsCard
                 title={{ text: "Pacientes Registrados" }}
-                count="34"
-                percentage={{ color: "success", text: "" }}
-                icon={{ color: "info", component: "public" }}
-              />
-            </Grid>
-            <Grid item xs={12} sm={6} xl={3}>
-              <MiniStatisticsCard
-                title={{ text: "Personal Clínico" }}
-                count="9"
-                percentage={{ color: "success", text: "" }}
-                icon={{ color: "info", component: "public" }}
-              />
-            </Grid>
-            <Grid item xs={12} sm={6} xl={3}>
-              <MiniStatisticsCard
-                title={{ text: "Especialidades Clínicas" }}
-                count="6"
+                count="2"
                 percentage={{ color: "error", text: "" }}
                 icon={{ color: "info", component: "public" }}
               />
             </Grid>
             <Grid item xs={12} sm={6} xl={3}>
               <MiniStatisticsCard
+                title={{ text: "Personal Clínico" }}
+                count="0"
+                percentage={{ color: "error", text: "" }}
+                icon={{ color: "info", component: "public" }}
+              />
+            </Grid>
+            <Grid item xs={12} sm={6} xl={3}>
+              <MiniStatisticsCard
+                title={{ text: "Especialidades Clínicas" }}
+                count="8"
+                percentage={{ color: "success", text: "" }}
+                icon={{ color: "info", component: "public" }}
+              />
+            </Grid>
+            <Grid item xs={12} sm={6} xl={3}>
+              <MiniStatisticsCard
                 title={{ text: "Examenes de Laboratorio" }}
-                count="10"
+                count="12"
                 percentage={{ color: "success", text: "" }}
                 icon={{ color: "info", component: "public"}}
               />
